@@ -1,0 +1,11 @@
+# config/config.yaml
+log_dir: "./logs/"
+output_dir: "./output/"
+
+conn_wayu:
+  user: "jlmartinez"
+  pass: "LaPaz2025*"
+  host: "192.168.50.82"
+  port: "5432"
+  db: "simo40"
+  schema: ""

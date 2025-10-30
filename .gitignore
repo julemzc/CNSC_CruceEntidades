@@ -1,0 +1,9 @@
+.ipynb_checkpoints/ 
+.venv/ 
+__pycache__/
+logs/ 
+base/.ipynb_checkpoints/
+base/__pycache__/
+*.pkl 
+Thumbs.db 
+.DS_Store
